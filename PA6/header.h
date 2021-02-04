@@ -2,9 +2,9 @@
 #ifndef HEADER_H
 #define HEADER_H
 
-#include <stdio.h> // standard libray
-#include <stdlib.h> // rand(), srand()
-#include <time.h> // time()
+#include <stdio.h> 
+#include <stdlib.h> 
+#include <time.h> 
 #include <math.h>
 
 #define NUM_ROWS 10
